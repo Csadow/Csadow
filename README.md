@@ -1,28 +1,57 @@
-# Hi, I'm SADOW
+<p align="center">
+  <img src="assets/linux-workstation.png" width="100%" alt="SADOW — Linux, systems, and automation. A Linux workstation with a penguin, terminal, and home server." />
+</p>
 
-**CS student interested in Linux systems, automation, and reliable software.**
+<p align="center">
+  <strong>CS student exploring Linux, automation, and reliable systems.</strong><br />
+  Working toward junior Linux sysadmin &amp; DevOps roles.
+</p>
 
-I'm working toward junior Linux system administration and DevOps roles. My current projects give me a place to explore local services, persistent storage, automated testing, and Linux application packaging.
+<p align="center">
+  <a href="mailto:sadow1016@gmail.com"><img src="assets/contact.svg" width="152" height="36" alt="Get in touch by email" /></a>
+  &nbsp;
+  <a href="https://github.com/Csadow?tab=repositories"><img src="assets/projects.svg" width="132" height="36" alt="Explore my projects" /></a>
+</p>
 
-[Email me](mailto:sadow1016@gmail.com) · [Explore my repositories](https://github.com/Csadow?tab=repositories)
+<br />
 
 ## Featured project
 
-### [DM Workbench](https://github.com/Csadow/dm-workbench)
+### [DM Workbench](https://github.com/Csadow/dm-workbench) · your campaign, on your machine
 
-An offline desktop workspace for tabletop game masters, built with JavaScript, Electron, and SQLite. The current prototype targets Linux x64.
+An offline Linux desktop workspace for tabletop game masters. Campaign notes, combat, audio, and an optional local AI assistant—all in one place, with data stored on your device.
 
-The parts most relevant to my interest in systems work:
+<a href="https://github.com/Csadow/dm-workbench">
+  <img src="assets/dm-workbench.png" width="100%" alt="DM Workbench: linked campaign notes, a Markdown workspace, and a relationship map. Russian interface with fictional demo data." />
+</a>
 
-- **CI and packaging:** GitHub Actions checks application logic, browser behavior, desktop restarts, and the packaged Linux application.
-- **Data recovery:** SQLite transactions, a file-write journal, and backup/restore checks for campaign data, notes, and audio.
-- **Local services:** an optional Ollama process, loopback-only APIs, and separation between application files and user data.
-- **Operations documentation:** startup, logs, configuration, backups, and troubleshooting in a [Linux operations guide](https://github.com/Csadow/dm-workbench/blob/main/docs/linux-operations.md).
+<p align="center">
+  <code>Linux</code> &nbsp; <code>JavaScript</code> &nbsp; <code>Electron</code> &nbsp; <code>SQLite</code> &nbsp; <code>GitHub Actions</code> &nbsp; <code>Ollama</code>
+</p>
 
-[Project overview](https://github.com/Csadow/dm-workbench#readme) · [CI workflow](https://github.com/Csadow/dm-workbench/blob/main/.github/workflows/check.yml) · [Storage tests](https://github.com/Csadow/dm-workbench/blob/main/tests/desktop-storage.test.mjs)
+<p align="center"><sub>Desktop prototype · Linux x64 · Russian interface · Screenshot from browser compatibility mode</sub></p>
 
-## Where I'm heading
+The systems work behind the interface:
 
-I'm interested in Linux troubleshooting, service management, networking, and repeatable deployment. I'm looking for an opportunity to develop those skills through practical work and learn from an experienced team.
+| Build &amp; verify | Store &amp; recover |
+| :--- | :--- |
+| Portable Linux packaging and automated browser, desktop, and restart checks. | SQLite transactions, a file-write journal, and full backup/restore checks. |
+| [Explore the CI workflow →](https://github.com/Csadow/dm-workbench/blob/main/.github/workflows/check.yml) | [Explore the storage tests →](https://github.com/Csadow/dm-workbench/blob/main/tests/desktop-storage.test.mjs) |
 
-For junior roles, internships, or a conversation about my projects: **[sadow1016@gmail.com](mailto:sadow1016@gmail.com)**.
+**Local services, logs, configuration, and troubleshooting:** [read the Linux operations guide →](https://github.com/Csadow/dm-workbench/blob/main/docs/linux-operations.md)
+
+<br />
+
+## What's next
+
+I'm interested in Linux troubleshooting, service management, networking, and repeatable deployment. My current projects are a starting point for developing those skills through practical work.
+
+I'd like to join a team where I can contribute, learn from experienced engineers, and grow into systems work.
+
+---
+
+<p align="center">
+  <strong>Let's build something useful.</strong><br />
+  Open to junior roles and internships<br />
+  <a href="mailto:sadow1016@gmail.com">sadow1016@gmail.com</a>
+</p>
