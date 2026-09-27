@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="assets/linux-workstation.png" width="100%" alt="SADOW — Linux, systems, and automation. A Linux workstation with a penguin, terminal, and home server." />
+  <a href="https://umamusume.jp/character/foreveryoung"><img src="assets/forever-young-header.png" width="100%" alt="Forever Young from Uma Musume: Pretty Derby — official character header by Cygames." /></a>
 </p>
+
+<h1 align="center">SADOW</h1>
 
 <p align="center">
   <strong>CS student exploring Linux, automation, and reliable systems.</strong><br />
@@ -55,3 +57,5 @@ I'd like to join a team where I can contribute, learn from experienced engineers
   Open to junior roles and internships<br />
   <a href="mailto:sadow1016@gmail.com">sadow1016@gmail.com</a>
 </p>
+
+<p align="center"><sub>Header: <a href="https://umamusume.jp/character/foreveryoung">Forever Young · Uma Musume: Pretty Derby</a> · © Cygames, Inc.</sub></p>
